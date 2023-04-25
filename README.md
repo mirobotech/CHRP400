@@ -20,7 +20,7 @@ The CHRP4 circuit board has a variety of simple I/O devices built-in so beginner
 - 5 visible light LEDs
 - 1 piezo beeper output
 - optional 4-pin header for PORTC I/O pin expansion (designed for an HC-SR04 ultrasonic SONAR module, but can also connect to servos, optical sensors, NeoPixels, etc.)
-- optional IR LED and phototransistor circuits integrated on three mini, break-away boards (one designed for line following robots, two designed for general floor sensing)
+- optional IR LED and phototransistor circuits integrated on three mini, break-away modules (one designed for line following robots, two designed for general floor sensing)
 - optional IR demodulator for remote control decoding
 - USB 2.0 type-C port for power and programming
 - 6-pin ICSP (In-Circuit Serial Programming) header for PICkit-4
