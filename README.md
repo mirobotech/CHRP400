@@ -39,5 +39,5 @@ CHRP4 is open hardware and uses open source software – we want educators to ha
 
 ## Can I buy a CHRP4?
 
-UBMP430 boards, kits, and lab packs are available at [mirobo.tech](https://mirobo.tech/chrp4).  
+CHRP4 boards, and kits are available at [mirobo.tech](https://mirobo.tech/chrp4).  
 Bare CHRP4 printed circuit boards are also available from [OSHPARK](https://oshpark.com/shared_projects/rMynSTCb).
