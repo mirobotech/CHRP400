@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "UBMP420-Library")(type "KiCad")(uri "${KIPRJMOD}/UBMP420-Library.pretty")(options "")(descr ""))
+  (lib (name "CHRP400-Library")(type "KiCad")(uri "${KIPRJMOD}/CHRP400-Library.pretty")(options "")(descr ""))
+)
